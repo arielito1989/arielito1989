@@ -1,9 +1,9 @@
 <h1 align="center">
   ¡Hola, soy Nicolás! 👋
 </h1>
-<h3 align="center">
-  Estudiante de Ciberseguridad y Desarrollador de Software
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=79ff97&background=00000000&center=true&vCenter=true&width=430&lines=Estudiante+de+Ciberseguridad;Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa!" alt="Animación de escritura" />
+</p>
 
 <br>
 
